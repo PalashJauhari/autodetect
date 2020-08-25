@@ -1,0 +1,1 @@
+web: gunicorn detect_cls_flask:app
